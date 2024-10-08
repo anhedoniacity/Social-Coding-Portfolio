@@ -1,4 +1,5 @@
 ##About This Portfolio
+
 This repository serves as my social coding portfolio for CSC 10800: Foundations of Data Science. It includes a running list of coding activities 
 and reflections related to the course.
 
